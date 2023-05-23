@@ -1,7 +1,5 @@
 # Hi there ![image](https://github.com/Sodman007/Sodman007/assets/119458570/add34b96-5a76-46c1-83e6-f14a9561b9ec)
 
-
-<!--
 **Sodman007/Sodman007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
