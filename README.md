@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div id="badrges">
 </div>
 Hi there
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Wonderful Emmanuel
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sodiq Oladipupo Ganiyu
 </h1>
   <a href="https://www.github.com/Sodman007" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sodman007?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 </div>
